@@ -1,9 +1,9 @@
 # Ansible-101
 
 Ansible
+
 Type of challenge: learning
-Duration: 5 days
-Team challenge : solo
+
 
 ### The mission
 Deploying and managing servers reliably and efficiently has always been a challenge. Previously, system administrators managed servers by hand, installing software, changing configurations, and administering services on individual servers. IT operations were spending more time configuring the systems. That’s why server provisioning and configuration management tools came to flourish. One of these tools is Ansible.
